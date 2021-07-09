@@ -36,7 +36,7 @@
 <head>
     <base href="<%=basePath%>">
     <title>mytitle</title>
-    <script src="jquery/echarts/echarts.min.js"></script>
+    <script src="ECharts/echarts.min.js"></script>
     <script src="jquery/jquery-1.11.1-min.js"></script>
 
     <script>
